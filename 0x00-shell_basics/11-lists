@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -l /alx-system_engineering /boot
+ls -a -l /. /.. /boot
