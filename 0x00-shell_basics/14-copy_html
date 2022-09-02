@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r find -name ".html" . ..
+copy -rua *.html ../
